@@ -1,4 +1,4 @@
-*This project has been created as part of the 42 curriculum by habou-ta.*
+*This project has been created as part of the 42 curriculum by hasanaboutak.*
 
 # get_next_line (42)
 
@@ -138,3 +138,8 @@ AI (GitHub Copilot / GPT-5.2) was used for documentation tasks only:
 - Drafting/structuring this `README.md`
 - Writing the algorithm explanation and complexity summary
 
+No AI-generated code was inserted into the `.c` sources as part of this README change.
+
+---
+
+If your 42 intra login is not `hasanaboutak`, update the first line accordingly.
